@@ -2,8 +2,8 @@
 A simple shared wallet functionality implemented using Solidity.
 
 > ## Coming soon
-- User interface to facilitate effective interaction between smart contract and user.
-- Hosting on website for effective user interaction.
+> - User interface to facilitate effective interaction between smart contract and user.
+> - Hosting on website for effective user interaction.
 
 ## Development Goals:
 - On-chain wallet smart contract.
