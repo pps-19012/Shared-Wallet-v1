@@ -22,3 +22,6 @@ A simple shared wallet functionality implemented using Solidity.
 - Create two solidity files with the same name and copy-paste these contents.
 - Compile the files with appropriate version changes.
 - Deploy the smart contract.
+- Use the following functions of deployed contract to interact:
+
+![alt text](https://github.com/pps-19012/Shared-Wallet-v1/blob/main/sharedwallet.png)
