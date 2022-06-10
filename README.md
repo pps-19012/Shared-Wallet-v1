@@ -1,7 +1,7 @@
 # Shared-Wallet-v1
 A simple shared wallet functionality implemented using Solidity.
 
-## Coming soon
+> ## Coming soon
 - User interface to facilitate effective interaction between smart contract and user.
 - Hosting on website for effective user interaction.
 
